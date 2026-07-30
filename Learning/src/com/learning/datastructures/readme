@@ -1,0 +1,278 @@
+Day 1: Arrays & Hashing (Today)
+Two Sum
+Best Time to Buy and Sell Stock
+Contains Duplicate
+Valid Anagram
+Group Anagrams
+Top K Frequent Elements
+Product of Array Except Self
+Day 2: Sliding Window & Two Pointers
+Longest Substring Without Repeating Characters
+Longest Repeating Character Replacement
+Minimum Window Substring
+Valid Palindrome
+3Sum
+Container With Most Water
+Day 3: Linked Lists
+Reverse Linked List
+Merge Two Sorted Lists
+Linked List Cycle
+Middle of Linked List
+Remove Nth Node From End
+Reorder List (optional if time permits)
+Day 4: Trees
+Maximum Depth of Binary Tree
+Invert Binary Tree
+Binary Tree Level Order Traversal
+Lowest Common Ancestor of a BST
+Validate Binary Search Tree
+Day 5: Intervals, Stack & Binary Search
+Merge Intervals
+Insert Interval
+Valid Parentheses
+Min Stack
+Binary Search
+Search in Rotated Sorted Array
+If you finish early (Bonus)
+Kth Largest Element
+Number of Islands
+Clone Graph
+Course Schedule
+LRU Cache
+Merge k Sorted Lists
+Must-master problems ⭐⭐⭐⭐⭐
+
+If you only have time for 15, make it these:
+
+Two Sum
+Best Time to Buy and Sell Stock
+Contains Duplicate
+Valid Anagram
+Longest Substring Without Repeating Characters
+Valid Palindrome
+Reverse Linked List
+Merge Two Sorted Lists
+Linked List Cycle
+Maximum Depth of Binary Tree
+Binary Tree Level Order Traversal
+Merge Intervals
+Valid Parentheses
+Binary Search
+Search in Rotated Sorted Array
+
+****************************************************
+
+Nested List Weight Sum II
+Medium
+100%
+Stack
+Depth-First Search
++1
+Solve
+Minimum Array Sum
+Medium
+94%
+Array
+Dynamic Programming
+Solve
+Check If a Word Occurs As a Prefix of Any Word in a Sentence
+Easy
+89%
+Two Pointers
+String
++1
+Solve
+Asteroid Collision
+Medium
+80%
+Array
+Stack
++1
+Solve
+Two Sum II - Input Array Is Sorted
+Medium
+79%
+Array
+Two Pointers
++1
+Solve
+Decode String
+Medium
+77%
+String
+Stack
++1
+Solve
+Invalid Transactions
+Medium
+75%
+Array
+Hash Table
++2
+Solve
+Unique Paths
+Medium
+74%
+Math
+Dynamic Programming
++1
+Solve
+All O`one Data Structure
+Hard
+71%
+Hash Table
+Linked List
++2
+Solve
+Subsets
+Medium
+70%
+Array
+Backtracking
++1
+Solve
+Longest Increasing Path in a Matrix
+Hard
+70%
+Array
+Dynamic Programming
++6
+Solve
+Construct String With Repeat Limit
+Medium
+68%
+Hash Table
+String
++3
+Solve
+Find K Closest Elements
+Medium
+67%
+Array
+Two Pointers
++4
+Solve
+Coin Change II
+Medium
+65%
+Array
+Dynamic Programming
+Solve
+Remove Duplicates from Sorted Array
+Easy
+63%
+Array
+Two Pointers
+Solve
+Maximum Sum of Distinct Subarrays With Length K
+Medium
+61%
+Array
+Hash Table
++1
+Solve
+Count Unhappy Friends
+Medium
+60%
+Array
+Simulation
+Solve
+Roman to Integer
+Easy
+57%
+Hash Table
+Math
++1
+Solve
+Line Reflection
+Medium
+56%
+Array
+Hash Table
++1
+Solve
+Kth Smallest Element in a Sorted Matrix
+Medium
+56%
+Array
+Binary Search
++3
+Solve
+Number of Islands II
+Hard
+50%
+Array
+Hash Table
++1
+Solve
+Integer to Roman
+Medium
+50%
+Hash Table
+Math
++1
+Solve
+Check Completeness of a Binary Tree
+Medium
+49%
+Tree
+Breadth-First Search
++1
+Solve
+Squares of a Sorted Array
+Easy
+39%
+Array
+Two Pointers
++1
+Solve
+Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit
+Medium
+37%
+Array
+Queue
++4
+Solve
+Pass your interview with AI assistance
+
+Get real-time solutions during your actual coding interview. Invisible to screensharing.
+
+Valid Palindrome III
+Hard
+37%
+String
+Dynamic Programming
+Solve
+Merge Two Sorted Lists
+Easy
+36%
+Linked List
+Recursion
+Solve
+Find Median from Data Stream
+Hard
+27%
+Two Pointers
+Design
++3
+Solve
+Linked List Cycle
+Easy
+24%
+Hash Table
+Linked List
++1
+Solve
+Check if One String Swap Can Make Strings Equal
+Easy
+22%
+Hash Table
+String
++1
+Solve
+Remove All Adjacent Duplicates In String
+Easy
+22%
+String
+Stack
+Solve
